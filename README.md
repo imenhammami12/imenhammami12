@@ -4,7 +4,6 @@
 
 ### Software Engineering Student | Full Stack Developer
 
-<img src="https://raw.githubusercontent.com/imenhammami12/imenhammami12/main/coding-night.gif" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imenhammami12&label=Profile views&color=0e75b6&style=flat" alt="imenhammami12" /> </p>
 
