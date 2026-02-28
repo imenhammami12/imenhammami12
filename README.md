@@ -1,10 +1,11 @@
-<p align="center">
+enhance this :<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=280&section=header&text=%E2%9C%A8+Imen+Hammami+%E2%9C%A8&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%90%B1+Code+%E2%80%A2+Create+%E2%80%A2+Caffeinate+%F0%9F%8E%A7&descAlignY=58&descSize=22" width="100%"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6EB4&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Imen+Hammami!;Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Coding+at+midnight+%F0%9F%8C%99%F0%9F%8E%A7;My+cat+reviews+my+PRs+%F0%9F%90%B1;Bug+found%3F+Blame+the+cat+%F0%9F%90%BE;She+purrs+when+the+build+passes+%E2%9C%85;Spring+Boot+%2B+Angular+%3D+%E2%9D%A4%EF%B8%8F;AI+%2B+Web+Dev+%3D+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=24&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B8+Welcome+to+my+digital+garden;%F0%9F%90%B1+Cat-powered+developer;%F0%9F%92%AB+Making+magic+one+commit+at+a+time" />
 </p>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imenhammami12/imenhammami12/main/coding-night.gif" width="100%"/>
@@ -120,5 +121,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC,FF6EB4&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </p>
