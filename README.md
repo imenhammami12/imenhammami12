@@ -2,56 +2,69 @@
 <img src="https://raw.githubusercontent.com/imenhammami12/imenhammami12/main/coding-night.gif" width="100%"/>
 </p>
 
-# Hi 👋, I'm Imen Hammami
-
-### Software Engineering Student | Full Stack Developer
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imenhammami12&label=Profile views&color=0e75b6&style=flat" alt="imenhammami12" /> </p>
-
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imenhammami12" alt="imenhammami12" /></a></p>
-
-
-- 🔭 I'm currently working on **Full Stack web applications with Spring Boot & Angular, including AI-powered solutions.**
-- 🌱 I'm currently learning **Software Engineering & AI / Machine Learning**
-- 👯 I'm looking to collaborate on **Web development projects & open source**
-- 🤝 I'm looking for help with **AI integration in web apps**
-- 💬 Ask me about **Spring Boot, Angular, Symfony, PHP, Java**
-- 📫 How to reach me **imen.hammami@esprit.tn**
-- ⚡ Fun fact **Spotify wrapped: 12,000 minutes of music. Stack Overflow: 12,000 minutes of shame 🎧🐛😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/imenhammami12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imen-hammami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/HammamiIme24289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Imen+Hammami!;Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Coding+at+midnight+%F0%9F%8C%99%F0%9F%8E%A7" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/></a>
-<a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/></a>
-<a href="https://symfony.com"><img src="https://skillicons.dev/icons?i=symfony" width="40" height="40"/></a>
-<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
-<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-<a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
-<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
-<a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/></a>
-<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
-<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/></a>
-<a href="https://huggingface.co"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imenhammami12&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/imenhammami12?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imenhammami12&show_icons=true&locale=en&layout=compact" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imenhammami12&show_icons=true&locale=en" /></p>
+### 🌸 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imenhammami12" /></p>
+```
+💻 Currently working on  → Full Stack apps with Spring Boot & Angular + AI
+🌱 Currently learning    → Software Engineering & Machine Learning
+👯 Looking to collab on  → Web dev & open source projects
+🤝 Looking for help with → AI integration in web apps
+💬 Ask me about          → Spring Boot, Angular, Symfony, PHP, Java
+📫 Reach me at           → imen.hammami@esprit.tn
+⚡ Fun fact              → Spotify: 12,000 min of music. Stack Overflow: 12,000 min of shame 🎧🐛😂
+```
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imenhammami12&theme=dracula&column=7&margin-w=10" alt="trophies"/>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,spring,symfony,php,java,py,tensorflow,pytorch,js,ts,mysql,git,linux,bootstrap,postman,laravel,sass,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imenhammami12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EB4&icon_color=FF6EB4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imenhammami12&theme=radical&hide_border=true&background=0D1117&ring=FF6EB4&fire=FF6EB4&currStreakLabel=FF6EB4" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenhammami12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EB4&layout=compact" width="48%"/>
+</p>
+
+---
+
+### 🌸 Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/imen-hammami"><img src="https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/HammamiIme24289"><img src="https://img.shields.io/badge/Twitter-FF6EB4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:imen.hammami@esprit.tn"><img src="https://img.shields.io/badge/Email-FF6EB4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/imenhammami12"><img src="https://img.shields.io/badge/GitHub-FF6EB4?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4&height=100&section=footer"/>
+</p>
