@@ -1,4 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/imenhammami12/imenhammami12/main/coding-night.gif)](https://linkedin.com/in/imen-hammami)
+<p align="center">
+<img src="https://raw.githubusercontent.com/imenhammami12/imenhammami12/main/coding-night.gif" width="100%"/>
+</p>
 
 # Hi 👋, I'm Imen Hammami
 
@@ -7,7 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imenhammami12&label=Profile views&color=0e75b6&style=flat" alt="imenhammami12" /> </p>
 
+
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imenhammami12" alt="imenhammami12" /></a></p>
+
 
 - 🔭 I'm currently working on **Full Stack web applications with Spring Boot & Angular, including AI-powered solutions.**
 - 🌱 I'm currently learning **Software Engineering & AI / Machine Learning**
